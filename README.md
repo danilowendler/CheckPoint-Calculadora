@@ -9,8 +9,12 @@ O programa realiza operações básicas de **Adição, Subtração, Multiplicaç
 
 | Nome |
 |------|
-| Danilo Wendler |
-| Pedro Muzel |
+| Danilo Wendler RM556602 |
+| Pedro Muzel RM555983 |
+| Vitor Ismael RM556027 |
+| Guilherme Cesarino RM557724 |
+| Fabrini Soares RM557813 |
+
 
 ---
 
