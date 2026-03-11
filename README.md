@@ -76,13 +76,3 @@ O programa realiza operações básicas de **Adição, Subtração, Multiplicaç
 > Opção `5` — Sair
 
 ![Teste Sair](screenshot-sair.png)
-
-
-## 📌 Critérios Atendidos
-
-| Critério | Detalhe | Pontos |
-|----------|---------|--------|
-| Uso correto de if/else e switch/case | Switch para operações, if/else para validações | 4 pts |
-| Tipos de dados corretos | `int`, `double`, `string` | 4 pts |
-| Boas práticas — PascalCase | `Opcao`, `PrimeiroNumero`, `SegundoNumero`, `Resultado` | 2 pts |
-| **Total** | | **10 pts** |
