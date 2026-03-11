@@ -77,20 +77,6 @@ O programa realiza operações básicas de **Adição, Subtração, Multiplicaç
 
 ![Teste Sair](screenshot-sair.png)
 
----
-
-## 📋 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Acesse a pasta do projeto e execute:
-   ```bash
-   dotnet run
-   ```
-
----
 
 ## 📌 Critérios Atendidos
 
