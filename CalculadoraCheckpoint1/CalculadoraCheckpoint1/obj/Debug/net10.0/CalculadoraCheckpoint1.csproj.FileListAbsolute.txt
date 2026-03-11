@@ -1,0 +1,14 @@
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\bin\Debug\net10.0\CalculadoraCheckpoint1.exe
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\bin\Debug\net10.0\CalculadoraCheckpoint1.deps.json
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\bin\Debug\net10.0\CalculadoraCheckpoint1.runtimeconfig.json
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\bin\Debug\net10.0\CalculadoraCheckpoint1.dll
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\bin\Debug\net10.0\CalculadoraCheckpoint1.pdb
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\obj\Debug\net10.0\CalculadoraCheckpoint1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\obj\Debug\net10.0\CalculadoraCheckpoint1.AssemblyInfoInputs.cache
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\obj\Debug\net10.0\CalculadoraCheckpoint1.AssemblyInfo.cs
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\obj\Debug\net10.0\CalculadoraCheckpoint1.csproj.CoreCompileInputs.cache
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\obj\Debug\net10.0\CalculadoraCheckpoint1.dll
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\obj\Debug\net10.0\refint\CalculadoraCheckpoint1.dll
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\obj\Debug\net10.0\CalculadoraCheckpoint1.pdb
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\obj\Debug\net10.0\CalculadoraCheckpoint1.genruntimeconfig.cache
+C:\Users\dan_h\source\repos\CalculadoraCheckpoint1\CalculadoraCheckpoint1\obj\Debug\net10.0\ref\CalculadoraCheckpoint1.dll
